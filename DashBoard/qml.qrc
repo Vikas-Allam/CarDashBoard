@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SpeedoMeter.qml</file>
+        <file>Rpm.qml</file>
+        <file>Display.qml</file>
+        <file>Steering.qml</file>
+        <file>CarSettings.qml</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>car.png</file>
+        <file>image (3).png</file>
+        <file>petrolsymbol.png</file>
+        <file>Rpm .png</file>
+        <file>Speedometer.png</file>
+        <file>Symbol(R).png</file>
+        <file>Temp .png</file>
+        <file>LI.png</file>
+        <file>RI.png</file>
+        <file>Parking.png</file>
+        <file>Down.png</file>
+        <file>PetrolIndicator .png</file>
+        <file>circle (1).png</file>
+        <file>Steering.png</file>
+        <file>steer (2).png</file>
+        <file>Bluetooth (3).png</file>
+        <file>Navigate (1).png</file>
+        <file>Radio (1).png</file>
+        <file>Music .png</file>
+        <file>Apps .png</file>
+        <file>Horn (1).png</file>
+        <file>Ferrari (1).png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>air_horn.wav</file>
+    </qresource>
+</RCC>
